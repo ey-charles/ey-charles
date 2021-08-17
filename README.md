@@ -9,4 +9,3 @@ Get in touch at: 📧 carlos.castillo@hey.com
 - 📖 Diving into: Node, Open source
 - 🔀 Pivoting from 👷(Operations Engineer) → 💻 (Software)
 - ❤️ Airtable geek
-- Talk to me about: 🎹 Piano, AoE II, Airtable (did I mention that already?),
