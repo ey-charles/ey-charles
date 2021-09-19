@@ -5,7 +5,7 @@ Currently looking for opportunities to help businesses develop better products a
 Get in touch at: 📧 crlos.cstillo@me.com
 
 ### ⚡️Quick facts
-- 💻 Stack: Javascript, Ruby, PHP, React
-- 📖 Diving into: Node, Open source
+- 💻 Stack: PHP, Javascript, VueJS
+- 📖 Diving into: Laravel, Node, Open source
 - 🔀 Pivoting from 👷(Operations Engineer) → 💻 (Software)
 - ❤️ Airtable geek
